@@ -1,0 +1,17 @@
+// Add all changes
+git add .
+
+// Commit changes
+git commit -m "commit title"
+
+// Push to github
+git push -u origin main
+
+// Cloning
+git clone url
+
+// Status of repository
+git status
+
+// Downloading others changes
+git pull origin main
